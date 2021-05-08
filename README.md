@@ -1,9 +1,6 @@
 # CheggSiteBot
 its a console app which interact with web browser and automate
 
-#lanuage
-C#
-
 # Details
 
 .Net Target --> .Net5
