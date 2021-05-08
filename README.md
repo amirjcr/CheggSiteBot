@@ -9,5 +9,7 @@ Tools --> selenium  (see for more deatils https://www.selenium.dev/documentation
 
 # Useage
 
-clone repository and run it
+(--------------clone repository and run it------------------)
+
+just notic that app target .Net5 you have to preinstalled .Net5 runtimes
 
